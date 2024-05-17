@@ -1,0 +1,8 @@
+names:
+- D00
+- D20
+- pothole
+nc: 3
+train: /kaggle/input/combined-rdd/combined_RDD_dataset/train/images
+val: /kaggle/input/combined-rdd/combined_RDD_dataset/valid/images
+test: /kaggle/input/combined-rdd/combined_RDD_dataset/test/images
